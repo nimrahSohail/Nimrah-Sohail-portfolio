@@ -1,0 +1,2 @@
+nimrahPortfolio.surge.sh
+nimrah-sohail-ns12.netlify.app
